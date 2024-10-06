@@ -1,0 +1,29 @@
+C:/Users/hp/Desktop/alu/alu.v {1 {vlog -work work -vopt -stats=none C:/Users/hp/Desktop/alu/alu.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} C:/Users/hp/Desktop/alu/Alu_tb.v {1 {vlog -work work -vopt -stats=none C:/Users/hp/Desktop/alu/Alu_tb.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module alu_tb
+
+Top level modules:
+	alu_tb
+
+} {} {}} C:/Users/hp/Desktop/alu/alu2.v {1 {vlog -work work -vopt -stats=none C:/Users/hp/Desktop/alu/alu2.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module alu_2
+
+Top level modules:
+	alu_2
+
+} {} {}} C:/Users/hp/Desktop/alu/alu_tb2.v {1 {vlog -work work -vopt -stats=none C:/Users/hp/Desktop/alu/alu_tb2.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module alu_tb2
+
+Top level modules:
+	alu_tb2
+
+} {} {}}
